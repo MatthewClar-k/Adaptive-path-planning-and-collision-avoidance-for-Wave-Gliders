@@ -2,7 +2,7 @@
 
 This repository contains all MATLAB code developed as part of the **EEE4022S Final Year Project** at the **University of Cape Town**, titled:
 
-> **Adaptive Path Planning for Wave Gliders: AIS-Based Dynamic Collision Avoidance**
+> **Adaptive Path Planning and Collision Avoidance for Wave Gliders**
 
 Supervisors: **A/Prof. R.A. Verrinder** and **Dr. S. Nicholson (CSIR SOCCO)**
 
